@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "619819bfa217551d24160664"
+  },
+  "idcustomer": "123456",
+  "idusername": "123456",
+  "idbusiness": "123455",
+  "idcustomertype": "personal"
+}]

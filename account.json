@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "61981ddca217551d24160666"
+  },
+  "id": "123456",
+  "customertype": "123456",
+  "idmoney": "dolares",
+  "accountnumber": "321456",
+  "residue": "400.00"
+}]

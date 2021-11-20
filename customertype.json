@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "61981fb1a217551d24160668"
+  },
+  "id": "123456",
+  "name": "pepe",
+  "commission": "15%",
+  "withdrawallimit": "1000.00"
+}]
